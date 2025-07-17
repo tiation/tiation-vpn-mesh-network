@@ -146,9 +146,9 @@ Internet <-> Gateway Nodes <-> Relay Nodes <-> Edge Nodes <-> End Users
 - Review the troubleshooting section in `DEPLOYMENT.md`
 - Check the knowledge base at `https://wiki.chasewhiterabbit.org/mesh-network/`
 - Contact regional coordinators:
-  - Jakarta: jakarta-mesh-support@chasewhiterabbit.org
-  - Sumatra: sumatra-mesh-support@chasewhiterabbit.org
-  - Other: mesh-support@chasewhiterabbit.org
+  - Jakarta: tiatheone@protonmail.com
+  - Sumatra: tiatheone@protonmail.com
+  - Other: tiatheone@protonmail.com
 
 ## Contributing
 
